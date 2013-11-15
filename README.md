@@ -1,5 +1,7 @@
 # Introduction
 
+http://btbear.net/401.php?i=a.gif
+
 **MSDynamicsDrawerViewController** was written by **[Eric Horacek](https://twitter.com/erichoracek)** for **[Monospace Ltd.](http://www.monospacecollective.com)**
 
 ## What is it?
